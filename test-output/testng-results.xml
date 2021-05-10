@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7081" started-at="2021-05-06T06:34:16Z" finished-at="2021-05-06T06:34:23Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="70" started-at="2021-05-06T06:34:16Z" finished-at="2021-05-06T06:34:16Z">
+      <class name="TestNG_Disscussion.ParameterInTestNG">
+        <test-method status="PASS" signature="testcase1(java.lang.String)[pri:0, instance:TestNG_Disscussion.ParameterInTestNG@1bce4f0a]" name="testcase1" duration-ms="26" started-at="2021-05-06T12:04:16Z" finished-at="2021-05-06T12:04:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- TestNG_Disscussion.ParameterInTestNG -->
+    </test> <!-- Test1 -->
+    <test name="Test" duration-ms="7081" started-at="2021-05-06T06:34:16Z" finished-at="2021-05-06T06:34:23Z">
+      <class name="TestNG_Disscussion.ParameterInTestNG">
+        <test-method status="PASS" signature="testcase1(java.lang.String)[pri:0, instance:TestNG_Disscussion.ParameterInTestNG@26be92ad]" name="testcase1" duration-ms="7046" started-at="2021-05-06T12:04:16Z" finished-at="2021-05-06T12:04:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- TestNG_Disscussion.ParameterInTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
